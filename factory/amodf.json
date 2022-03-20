@@ -1,0 +1,9 @@
+{
+	"name": "amodf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "bf0f0a6e-563b-4f30-ab88-b4a4fc5c897d",
+		"tenantId": "1239c928-b701-471c-a023-bdcd07c83eb3"
+	}
+}
